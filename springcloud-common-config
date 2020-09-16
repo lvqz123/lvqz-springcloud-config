@@ -1,0 +1,4 @@
+mysql:
+  url: jdbc:mysql://47.95.239.50:3306/springcloud_demo?useUnicode=true&characterEncoding=utf8
+  username: lvqz
+  password: lvqz1726
